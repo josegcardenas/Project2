@@ -13,6 +13,7 @@ For our four datasets, they were all CSV files found from Kaggle and the CDC web
  
 ## Data Cleanup & Analysis (Transform)
 For this project, We used PostgreSQL to link the data to our Jupyter Notebook.
+
 <include a description of our data cleanup process here; what data cleaning or transformation was required>
   
 ## Project Report (Load)
