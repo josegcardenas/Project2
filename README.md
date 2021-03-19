@@ -1,10 +1,16 @@
 # ETL Project
 Members: Jose, Nitasha, Toni
 
-## Project Proposal
-
 ## Finding Data (Extract)
-For our four datasets, they were all CSV files found from Kaggle and the CDC website.
+For our four datasets, they were all CSV files found from Kaggle and the CDC website. 
+The 'Reddit Wallstreet Bets Posts' and 'GameStop Historical Stock Prices' were used together to see how Reddit posts affected GME stock prices.
+
+Both Moderna and Pfizer vaccine distribution datasets included:
+-Jurisdiction
+-Week of Allocations
+-1st Dose Allocations
+-2nd Dose Allocations
+
 ###### Sources of data:
 - https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts
 - https://www.kaggle.com/hananxx/gamestop-historical-stock-prices
