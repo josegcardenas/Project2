@@ -3,9 +3,11 @@ Members: Jose, Nitasha, Toni
 
 ## Finding Data (Extract)
 For our four datasets, they were all CSV files found from Kaggle and the CDC website. 
+
 The 'Reddit Wallstreet Bets Posts' and 'GameStop Historical Stock Prices' were used together to see how Reddit posts affected GME stock prices.
 
 Both Moderna and Pfizer vaccine distribution datasets included:
+
 -Jurisdiction
 -Week of Allocations
 -1st Dose Allocations
