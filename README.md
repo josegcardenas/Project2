@@ -8,10 +8,10 @@ The 'Reddit Wallstreet Bets Posts' and 'GameStop Historical Stock Prices' were u
 
 Both Moderna and Pfizer vaccine distribution datasets included:
 
--Jurisdiction
--Week of Allocations
--1st Dose Allocations
--2nd Dose Allocations
+- Jurisdiction
+- Week of Allocations
+- 1st Dose Allocations
+- 2nd Dose Allocations
 
 ###### Sources of data:
 - https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts
