@@ -17,11 +17,14 @@ CREATE TABLE pfizer_df(
 
 CREATE TABLE GameStop(
 	date DATE,
-	high_price TEXT,
-	url TEXT,
-	timestamp DATE
+	high_price INT,
+	low_price INT
 )
 
 CREATE TABLE Reddit(
-	date DATE,
-	high_price 
+	title TEXT,
+	id TEXT,
+	url TEXT,
+	timestamp DATE
+	
+)
