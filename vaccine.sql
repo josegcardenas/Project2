@@ -1,4 +1,4 @@
---Creating tables for moderna and pfizer datasets
+--Creating tables for moderna and pfizer datasets (1)
 CREATE TABLE moderna_df(
 	Jurisdiction TEXT,
 	Week_of_Allocations TEXT,
@@ -13,7 +13,7 @@ CREATE TABLE pfizer_df(
 	Second_Dose_Allocations INT
 )
 
---Create tables for GME and Reddit
+--Create tables for GME and Reddit (2)
 
 CREATE TABLE GameStop(
 	title TEXT,
