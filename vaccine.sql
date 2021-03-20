@@ -16,8 +16,8 @@ CREATE TABLE pfizer_df(
 --Create tables for GME and Reddit (2)
 
 CREATE TABLE GameStop(
-	title TEXT,
-	id TEXT,
+	date DATE,
+	high_price TEXT,
 	url TEXT,
 	timestamp DATE
 )
