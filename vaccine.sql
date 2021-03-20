@@ -12,3 +12,16 @@ CREATE TABLE pfizer_df(
 	First_Dose_Allocations INT,
 	Second_Dose_Allocations INT
 )
+
+--Create tables for GME and Reddit
+
+CREATE TABLE GameStop(
+	title TEXT,
+	id TEXT,
+	url TEXT,
+	timestamp DATE
+)
+
+CREATE TABLE Reddit(
+	date DATE,
+	high_price 
