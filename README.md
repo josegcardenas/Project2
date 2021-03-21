@@ -20,9 +20,11 @@ Both Moderna and Pfizer vaccine distribution datasets included:
 - https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/b7pe-5nws
  
 ## Data Cleanup (Transform)
-For this project, We used PostgreSQL to link the data to our Jupyter Notebook. For the reddit CSV file, we had to reformat the date in order for it to align with the GME stock CSV. Additionally, all four datasets required us to rename the column names.
+- Used Pandas in Jupyter Notebook to load all four CSV files and put into dataframs
+- For the reddit CSV file, we had to reformat the date in order for it to align with the GME stock CSV date format. 
+- All four datasets required us to rename the column names.
+- Used PostgreSQL to link the data to our Jupyter Notebook. 
 
-  
 ## Project Report (Load)
-Our last step was to use pandas to load our CSV converted dataframe into the SQL database and connect it using SQL Alchemy. We made corresponding tables and column names to match the pandas dataframe in SQL.
+Our last step was to use pandas to load our CSV converted dataframe into the SQL database and connect it using SQL Alchemy. We made corresponding tables and column names to match the Pandas dataframes in SQL.
 
